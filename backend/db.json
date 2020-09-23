@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro",
+      "price": "22429.9"
+    },
+    {
+      "id": 2,
+      "name": "Watch Clock",
+      "price": 2429.9
+    },
+    {
+      "name": "Iphone 6s Pro Maxx",
+      "price": "3659.99",
+      "id": 3
+    },
+    {
+      "name": "Iphone 11 Pro",
+      "price": "11299.89",
+      "id": 4
+    }
+  ]
+}
